@@ -1,0 +1,3 @@
+src/generator.py
+# AI Test Case Generator
+# This file will generate QA test cases from software requirements.
